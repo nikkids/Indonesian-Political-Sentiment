@@ -10,9 +10,6 @@ This project presents a comprehensive spatiotemporal analysis of political senti
 - `WrapHate.ipynb`:  
   Focuses on **hate speech detection**, using labeled datasets and model-based classification. Results are evaluated over time to highlight peaks in hate-related content during the election cycles.
 
-- `geospatial.ipynb`:  
-  Implements **geospatial visualizations** of sentiment and hate speech. Incorporates Indonesian administrative boundaries to display trends by province and region.
-
 ## 🧠 Key Features
 
 - **Fine-tuning of IndoBERT** for Indonesian sentiment and hate speech classification  
@@ -26,7 +23,6 @@ This project presents a comprehensive spatiotemporal analysis of political senti
 - `Pandas`, `NumPy` — Data manipulation  
 - `Scikit-learn`, `Transformers (Huggingface)` — Machine learning & NLP  
 - `Matplotlib`, `Plotly` — Visualization  
-- `Geopandas`, `Folium` — Geospatial analysis  
 
 ## 📌 Insights & Contributions
 
